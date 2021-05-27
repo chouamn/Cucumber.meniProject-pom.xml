@@ -1,0 +1,156 @@
+2021-05-26 16:04:38,917  INFO [main] meniProject:30 - Launching browser
+2021-05-26 16:04:38,930  INFO [main] meniProject:37 - Open URL
+2021-05-26 16:04:41,266  INFO [main] meniProject:44 - providing login details
+2021-05-26 16:04:41,601  INFO [main] meniProject:51 - started login 
+2021-05-26 16:04:57,441  INFO [main] meniProject:124 - Adding new customer 
+2021-05-26 16:05:03,786  INFO [main] meniProject:145 - saving customer data 
+2021-05-26 16:05:05,313  INFO [main] meniProject:84 - closing browser
+2021-05-26 16:05:07,728  INFO [main] meniProject:30 - Launching browser
+2021-05-26 16:05:07,732  INFO [main] meniProject:37 - Open URL
+2021-05-26 16:05:10,603  INFO [main] meniProject:44 - providing login details
+2021-05-26 16:05:10,925  INFO [main] meniProject:51 - started login 
+2021-05-26 16:05:18,862  INFO [main] meniProject:159 -  searching customer using Email Id
+2021-05-26 16:05:26,517  INFO [main] meniProject:84 - closing browser
+2021-05-26 16:05:28,624  INFO [main] meniProject:30 - Launching browser
+2021-05-26 16:05:28,647  INFO [main] meniProject:37 - Open URL
+2021-05-26 16:05:31,085  INFO [main] meniProject:44 - providing login details
+2021-05-26 16:05:31,403  INFO [main] meniProject:51 - started login 
+2021-05-26 16:05:42,103  INFO [main] meniProject:189 - Searching customer by using firstname and lastname
+2021-05-26 16:05:45,734  INFO [main] meniProject:84 - closing browser
+2021-05-26 16:05:47,998  INFO [main] meniProject:30 - Launching browser
+2021-05-26 16:05:47,999  INFO [main] meniProject:37 - Open URL
+2021-05-26 16:05:49,916  INFO [main] meniProject:44 - providing login details
+2021-05-26 16:05:50,218  INFO [main] meniProject:51 - started login 
+2021-05-26 16:05:55,448  INFO [main] meniProject:65 - login failed
+2021-05-26 16:05:55,497  INFO [main] meniProject:72 - Click on logout linck 
+2021-05-26 16:06:00,866  INFO [main] meniProject:30 - Launching browser
+2021-05-26 16:06:00,868  INFO [main] meniProject:37 - Open URL
+2021-05-26 16:06:02,617  INFO [main] meniProject:44 - providing login details
+2021-05-26 16:06:02,988  INFO [main] meniProject:51 - started login 
+2021-05-26 16:06:05,567  INFO [main] meniProject:65 - login failed
+2021-05-26 16:06:05,573  INFO [main] meniProject:72 - Click on logout linck 
+2021-05-26 16:06:11,236  INFO [main] meniProject:30 - Launching browser
+2021-05-26 16:06:11,237  INFO [main] meniProject:37 - Open URL
+2021-05-26 16:06:12,809  INFO [main] meniProject:44 - providing login details
+2021-05-26 16:06:13,213  INFO [main] meniProject:51 - started login 
+2021-05-26 16:06:13,774  INFO [main] meniProject:62 - login passed
+2021-05-27 01:01:55,518  INFO [main] meniProject:39 - Launching browser
+2021-05-27 01:01:55,575  INFO [main] meniProject:51 - Open URL
+2021-05-27 01:01:57,672  INFO [main] meniProject:58 - providing login details
+2021-05-27 01:01:58,193  INFO [main] meniProject:65 - started login 
+2021-05-27 01:02:18,019  INFO [main] meniProject:138 - Adding new customer 
+2021-05-27 01:02:24,792  INFO [main] meniProject:159 - saving customer data 
+2021-05-27 01:02:27,132  INFO [main] meniProject:98 - closing browser
+2021-05-27 01:02:29,941  INFO [main] meniProject:39 - Launching browser
+2021-05-27 01:02:29,944  INFO [main] meniProject:51 - Open URL
+2021-05-27 01:02:32,211  INFO [main] meniProject:58 - providing login details
+2021-05-27 01:02:32,606  INFO [main] meniProject:65 - started login 
+2021-05-27 01:02:38,795  INFO [main] meniProject:173 -  searching customer using Email Id
+2021-05-27 01:02:46,914  INFO [main] meniProject:98 - closing browser
+2021-05-27 01:02:49,761  INFO [main] meniProject:39 - Launching browser
+2021-05-27 01:02:49,763  INFO [main] meniProject:51 - Open URL
+2021-05-27 01:02:52,252  INFO [main] meniProject:58 - providing login details
+2021-05-27 01:02:52,587  INFO [main] meniProject:65 - started login 
+2021-05-27 01:03:04,332  INFO [main] meniProject:203 - Searching customer by using firstname and lastname
+2021-05-27 01:03:08,262  INFO [main] meniProject:98 - closing browser
+2021-05-27 01:03:11,209  INFO [main] meniProject:39 - Launching browser
+2021-05-27 01:03:11,211  INFO [main] meniProject:51 - Open URL
+2021-05-27 01:03:13,487  INFO [main] meniProject:58 - providing login details
+2021-05-27 01:03:13,931  INFO [main] meniProject:65 - started login 
+2021-05-27 01:03:19,551  INFO [main] meniProject:79 - login failed
+2021-05-27 01:03:19,610  INFO [main] meniProject:86 - Click on logout linck 
+2021-05-27 01:03:25,622  INFO [main] meniProject:39 - Launching browser
+2021-05-27 01:03:25,675  INFO [main] meniProject:51 - Open URL
+2021-05-27 01:03:28,374  INFO [main] meniProject:58 - providing login details
+2021-05-27 01:03:28,847  INFO [main] meniProject:65 - started login 
+2021-05-27 01:03:35,062  INFO [main] meniProject:79 - login failed
+2021-05-27 01:03:35,082  INFO [main] meniProject:86 - Click on logout linck 
+2021-05-27 01:03:42,267  INFO [main] meniProject:39 - Launching browser
+2021-05-27 01:03:42,273  INFO [main] meniProject:51 - Open URL
+2021-05-27 01:03:45,536  INFO [main] meniProject:58 - providing login details
+2021-05-27 01:03:46,023  INFO [main] meniProject:65 - started login 
+2021-05-27 01:03:47,197  INFO [main] meniProject:76 - login passed
+2021-05-27 11:03:44,477  INFO [main] meniProject:62 - Launching browser
+2021-05-27 11:03:44,486  INFO [main] meniProject:74 - Open URL
+2021-05-27 11:03:46,602  INFO [main] meniProject:81 - providing login details
+2021-05-27 11:03:46,931  INFO [main] meniProject:88 - started login 
+2021-05-27 11:04:01,967  INFO [main] meniProject:161 - Adding new customer 
+2021-05-27 11:04:08,458  INFO [main] meniProject:182 - saving customer data 
+2021-05-27 11:04:10,225  INFO [main] meniProject:121 - closing browser
+2021-05-27 11:04:12,602  INFO [main] meniProject:62 - Launching browser
+2021-05-27 11:04:12,605  INFO [main] meniProject:74 - Open URL
+2021-05-27 11:04:15,485  INFO [main] meniProject:81 - providing login details
+2021-05-27 11:04:15,776  INFO [main] meniProject:88 - started login 
+2021-05-27 11:04:22,037  INFO [main] meniProject:196 -  searching customer using Email Id
+2021-05-27 11:04:29,597  INFO [main] meniProject:121 - closing browser
+2021-05-27 11:04:31,867  INFO [main] meniProject:62 - Launching browser
+2021-05-27 11:04:31,869  INFO [main] meniProject:74 - Open URL
+2021-05-27 11:04:34,785  INFO [main] meniProject:81 - providing login details
+2021-05-27 11:04:35,097  INFO [main] meniProject:88 - started login 
+2021-05-27 11:04:46,115  INFO [main] meniProject:226 - Searching customer by using firstname and lastname
+2021-05-27 11:04:50,109  INFO [main] meniProject:121 - closing browser
+2021-05-27 11:22:11,806  INFO [main] meniProject:62 - Launching browser
+2021-05-27 11:22:11,872  INFO [main] meniProject:74 - Open URL
+2021-05-27 11:22:13,813  INFO [main] meniProject:81 - providing login details
+2021-05-27 11:22:14,172  INFO [main] meniProject:88 - started login 
+2021-05-27 11:22:29,425  INFO [main] meniProject:161 - Adding new customer 
+2021-05-27 11:22:35,792  INFO [main] meniProject:182 - saving customer data 
+2021-05-27 11:22:37,131  INFO [main] meniProject:121 - closing browser
+2021-05-27 11:22:39,622  INFO [main] meniProject:62 - Launching browser
+2021-05-27 11:22:39,626  INFO [main] meniProject:74 - Open URL
+2021-05-27 11:22:42,044  INFO [main] meniProject:81 - providing login details
+2021-05-27 11:22:42,367  INFO [main] meniProject:88 - started login 
+2021-05-27 11:22:45,286  INFO [main] meniProject:102 - login failed
+2021-05-27 11:22:45,358  INFO [main] meniProject:109 - Click on logout linck 
+2021-05-27 11:32:24,486  INFO [main] meniProject:62 - Launching browser
+2021-05-27 11:32:24,509  INFO [main] meniProject:74 - Open URL
+2021-05-27 11:32:26,526  INFO [main] meniProject:81 - providing login details
+2021-05-27 11:32:26,904  INFO [main] meniProject:88 - started login 
+2021-05-27 11:32:41,456  INFO [main] meniProject:161 - Adding new customer 
+2021-05-27 11:32:47,830  INFO [main] meniProject:182 - saving customer data 
+2021-05-27 11:32:49,064  INFO [main] meniProject:121 - closing browser
+2021-05-27 11:32:51,818  INFO [main] meniProject:62 - Launching browser
+2021-05-27 11:32:51,823  INFO [main] meniProject:74 - Open URL
+2021-05-27 11:32:54,538  INFO [main] meniProject:81 - providing login details
+2021-05-27 11:32:54,909  INFO [main] meniProject:88 - started login 
+2021-05-27 11:32:57,632  INFO [main] meniProject:102 - login failed
+2021-05-27 11:32:57,755  INFO [main] meniProject:109 - Click on logout linck 
+2021-05-27 11:38:17,407  INFO [main] meniProject:62 - Launching browser
+2021-05-27 11:38:17,420  INFO [main] meniProject:74 - Open URL
+2021-05-27 11:38:19,658  INFO [main] meniProject:81 - providing login details
+2021-05-27 11:38:19,977  INFO [main] meniProject:88 - started login 
+2021-05-27 11:38:35,075  INFO [main] meniProject:161 - Adding new customer 
+2021-05-27 11:38:41,459  INFO [main] meniProject:182 - saving customer data 
+2021-05-27 11:38:42,617  INFO [main] meniProject:121 - closing browser
+2021-05-27 11:38:44,974  INFO [main] meniProject:62 - Launching browser
+2021-05-27 11:38:44,979  INFO [main] meniProject:74 - Open URL
+2021-05-27 11:38:47,127  INFO [main] meniProject:81 - providing login details
+2021-05-27 11:38:47,448  INFO [main] meniProject:88 - started login 
+2021-05-27 11:38:50,425  INFO [main] meniProject:102 - login failed
+2021-05-27 11:38:50,441  INFO [main] meniProject:109 - Click on logout linck 
+2021-05-27 12:20:43,936  INFO [main] meniProject:62 - Launching browser
+2021-05-27 12:20:43,963  INFO [main] meniProject:74 - Open URL
+2021-05-27 12:20:46,187  INFO [main] meniProject:81 - providing login details
+2021-05-27 12:20:46,606  INFO [main] meniProject:88 - started login 
+2021-05-27 12:21:01,535  INFO [main] meniProject:161 - Adding new customer 
+2021-05-27 12:21:08,362  INFO [main] meniProject:182 - saving customer data 
+2021-05-27 12:21:09,939  INFO [main] meniProject:121 - closing browser
+2021-05-27 12:21:12,194  INFO [main] meniProject:62 - Launching browser
+2021-05-27 12:21:12,199  INFO [main] meniProject:74 - Open URL
+2021-05-27 12:21:14,292  INFO [main] meniProject:81 - providing login details
+2021-05-27 12:21:14,617  INFO [main] meniProject:88 - started login 
+2021-05-27 12:21:18,417  INFO [main] meniProject:102 - login failed
+2021-05-27 12:21:18,452  INFO [main] meniProject:109 - Click on logout linck 
+2021-05-27 12:24:52,939  INFO [main] meniProject:62 - Launching browser
+2021-05-27 12:24:52,948  INFO [main] meniProject:74 - Open URL
+2021-05-27 12:24:54,422  INFO [main] meniProject:81 - providing login details
+2021-05-27 12:24:54,738  INFO [main] meniProject:88 - started login 
+2021-05-27 12:25:09,365  INFO [main] meniProject:161 - Adding new customer 
+2021-05-27 12:25:15,815  INFO [main] meniProject:182 - saving customer data 
+2021-05-27 12:25:17,122  INFO [main] meniProject:121 - closing browser
+2021-05-27 12:25:19,312  INFO [main] meniProject:62 - Launching browser
+2021-05-27 12:25:19,315  INFO [main] meniProject:74 - Open URL
+2021-05-27 12:25:21,379  INFO [main] meniProject:81 - providing login details
+2021-05-27 12:25:21,676  INFO [main] meniProject:88 - started login 
+2021-05-27 12:25:25,225  INFO [main] meniProject:102 - login failed
+2021-05-27 12:25:25,258  INFO [main] meniProject:109 - Click on logout linck 
